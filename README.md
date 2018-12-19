@@ -5,17 +5,16 @@ Set a cronjob for this script (for example) every hour.
 
 The format of the file newusers.txt is as follows:
 
-"
+
 -A INPUT -s ipadress/32 -j ACCEPT
 Username             l2tpd   Password                *
 -
-"
+
 
 And repeat...
 
 SO for example:
 
-"
 -A INPUT -s ipadress/32 -j ACCEPT
 Username             l2tpd   Password                *
 -
@@ -25,4 +24,3 @@ Username             l2tpd   Password                *
 -A INPUT -s ipadress/32 -j ACCEPT
 Username             l2tpd   Password                *
 -
-"
