@@ -5,6 +5,8 @@ Set a cronjob for this script (for example) every hour.
 
 The format of the file newusers.txt is as follows:
 
+USE THE RAW FUNCTION ON GITHUB, THAT MAKES THE FORMAT MORE CLEARLY!
+
 
 -A INPUT -s ipadress/32 -j ACCEPT
 Username             l2tpd   Password                *
