@@ -3,9 +3,10 @@ This python script will read an external file on a ftp server and adds the user 
 
 Set a cronjob for this script (for example) every hour.
 
-The format of the file newusers.txt is as follows:
 
 USE THE RAW FUNCTION ON GITHUB, THAT MAKES THE FORMAT MORE CLEARLY!
+
+The format of the file newusers.txt is as follows:
 
 
 -A INPUT -s ipadress/32 -j ACCEPT
